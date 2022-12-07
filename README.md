@@ -1,4 +1,8 @@
-# list
-redgno-2141007041
+# To_do_list
+Name-Karan Gouda/
+redgno-2141007041/
 username-@Karan_gouda
-project-To do list using html,css,javascript
+## Features
+You can add,delete,and edit the tasks
+## Project Description
+To do list using html,css,javascript
